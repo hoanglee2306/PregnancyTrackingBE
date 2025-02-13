@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\PregnancyTracking.Domain\\Common",
+    "\\PregnancyTracking.Domain\\Entities",
+    "\\PregnancyTracking.Domain\\Enums",
+    "\\PregnancyTracking.Infrastructure\\Services",
+    "\\PregnancyTracking.Persistence\\Configurations"
+  ],
+  "PreviewInSolutionExplorer": false
+}
